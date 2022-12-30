@@ -68,4 +68,4 @@ There will be no student site automatic marking for this question. Please perfor
 
 We will mark your code by playing a number of games against an optimal AI. Your AI must win all games to get full marks for this question. 
 
-Important: Implementing an optimal AI that is able to always win does not require complex computation. Your AI must be very fast. We will use a time threshold of 1 second per move. You are allowed to discuss solution strategies for this question. But don't share any code. 
+Important: Implementing an optimal AI that is able to always win does not require complex computation. Your AI must be very fast. We will use a time threshold of 1 second per move. 
